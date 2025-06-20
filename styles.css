@@ -98,6 +98,7 @@ article {
 }
 
 /* Skills Tags */
+
 .Skills span {
   display: inline-block;
   background: #e0f7fa;
@@ -109,6 +110,7 @@ article {
 }
 
 /* Projects */
+
 .Project-container h2 {
   margin-bottom: 20px;
 }
@@ -149,6 +151,7 @@ article {
 }
 
 /* Tools */
+
 aside {
   margin: 40px 0;
   padding-left: 15px;
@@ -175,6 +178,7 @@ aside {
 }
 
 /* Contact Section */
+
 section:last-of-type {
   margin-top: 40px;
   text-align: center;
@@ -189,6 +193,7 @@ section:last-of-type p a {
 }
 
 /* Responsive Design */
+
 @media (max-width: 768px) {
   .card-top {
     flex-direction: column;
@@ -208,6 +213,7 @@ section:last-of-type p a {
   }
 
   /* Stack key sections as blocks */
+  
   .Project-container,
   .Education,
   .Agent,
