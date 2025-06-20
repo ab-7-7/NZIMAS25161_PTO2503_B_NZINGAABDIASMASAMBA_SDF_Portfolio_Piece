@@ -67,3 +67,7 @@ A passionate and motivated individual transitioning from customer service into t
 ## 🙌 Acknowledgements
 Gratitude to **CodeSpace Academy** for their direction and assistance!
 I appreciate Coach Chemonique Henning for her help and guidance.
+
+## 🎥 Video Walkthrough  
+Watch my portfolio walkthrough here:  
+[Loom Video Link](https://www.loom.com/share/3e7baa5770dc4cc8988a0c99f34d62e5?sid=0525a8a7-a203-4434-94ef-6106b2c81586)
