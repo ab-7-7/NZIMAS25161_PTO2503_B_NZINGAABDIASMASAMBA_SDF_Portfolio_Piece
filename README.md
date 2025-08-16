@@ -32,7 +32,7 @@ A passionate and motivated individual transitioning from customer service into t
 - Dev Tools: Git, GitHub, VS Code, npm
 
 ### 👔 Experience
-- **Call-Lab BPO** – Outbound Agent (2023–Present)
+- **VISA CREDIT CARD** – B2B Account Manager (2025–Present)
 - **Eventus Promotion** – Sales Rep (2022–2023)
 - **Afrivintage** – Retail Consultant (2021–2022)
 
@@ -68,6 +68,16 @@ A passionate and motivated individual transitioning from customer service into t
 Gratitude to **CodeSpace Academy** for their direction and assistance!
 I appreciate Coach Chemonique Henning for her help and guidance.
 
+Special thanks to the following creators whose videos helped me understand how to work with **Flexbox** more effectively:
+
+- **Coding2GO** – [Watch on YouTube](https://youtu.be/wsTv9y931o8?si=6KIYTJyWyngAvoCV)  
+- **Alamin** – [Watch on YouTube Shorts](https://youtube.com/shorts/310Kj2kmptg?si=ivst19a-PhiuFUAr)  
+- **ByteGrad** – [Watch on YouTube](https://youtu.be/YP80fCtSodg?si=Hhb5lGlqeD3CUzmh)
+
+---
+
 ## 🎥 Video Walkthrough  
 Watch my portfolio walkthrough here:  
-[Loom Video Link](https://www.loom.com/share/3e7baa5770dc4cc8988a0c99f34d62e5?sid=0525a8a7-a203-4434-94ef-6106b2c81586)
+[Loom Video Link Part 1](https://www.loom.com/share/84504a6c48ae4ddc83e9a4cf3340e0a5?sid=7c5ab8e3-ce4a-4a98-90df-4e2b2d2f5b43)
+[Loom Video Link Part 2](https://www.loom.com/share/cf2c1560e7834cd78527596d626e129b?sid=4f636f82-1969-4ed3-be6d-62b795f8efd9)
+

@@ -1,4 +1,4 @@
-
+/* Start  */
 
 body {
   background-color: #808080;
@@ -417,6 +417,7 @@ main {
 
 
 /* Mobile: 480px and below */
+
 @media (max-width: 480px) {
   .selfie {
     width: 100px;
@@ -452,3 +453,6 @@ main {
     font-size: 18px;
   }
 }
+
+
+/* End  */
