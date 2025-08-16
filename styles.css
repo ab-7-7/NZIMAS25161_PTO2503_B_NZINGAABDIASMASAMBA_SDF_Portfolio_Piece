@@ -189,7 +189,7 @@ main {
 
 /* Education */
 
-/* Layout wrapper */
+
 .education-tools-container {
   display: flex;
   justify-content: space-evenly;
@@ -341,6 +341,7 @@ main {
 }
 
 /* Responsive Styles  */
+
 
 /* Tablets: 768px and below */
 
